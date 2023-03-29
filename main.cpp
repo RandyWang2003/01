@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int i =2001;
-	int a,b，c;
+	int a,b，c，d;
 	while(i<10000)
 	{
 		int flag =0;
